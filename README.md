@@ -1,4 +1,3 @@
-# [README.MD](https://github.com/user-attachments/files/26301029/README.MD)
 # 🧬 ПрофДНК — Платформа для профориентологов
 
 <div align="center">
